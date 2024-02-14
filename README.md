@@ -1,4 +1,4 @@
-#flexWheel
+# FlexWheel
 
 ![](wheel.gif)
 
